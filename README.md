@@ -1,1 +1,1 @@
-# HexOs-server
+# HexOs-core
